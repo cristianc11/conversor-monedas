@@ -65,20 +65,20 @@ Intercambios disponibles
 7) Salir
 *****************************************
 
-Ingresa la acción que deseas realizar: 1
-Ingresa el valor a intercambiar: 100
-El valor 100.0 [USD] corresponde al valor final de => 89500.0 [ARS]
+Ingresa la acción que deseas realizar: 1  
+Ingresa el valor a intercambiar: 100  
+El valor 100.0 [USD] corresponde al valor final de => 89500.0 [ARS]  
 
-📁 Estructura de carpetas sugerida
+📁 Estructura de carpetas sugerida  
 
-ConversorMonedas/
-├── src/
-│   ├── Principal.java
-│   ├── IntercambioMoneda.java
-│   ├── ConsultaMoneda.java
-│   └── Moneda.java
-├── README.md
+ConversorMonedas/  
+├── src/  
+│   ├── Principal.java  
+│   ├── IntercambioMoneda.java  
+│   ├── ConsultaMoneda.java  
+│   └── Moneda.java  
+├── README.md  
 
-📄 Licencia
-Este proyecto está bajo la licencia MIT.
-¡Puedes usarlo, modificarlo y compartirlo libremente! ✌️
+📄 Licencia  
+Este proyecto está bajo la licencia MIT.  
+¡Puedes usarlo, modificarlo y compartirlo libremente! ✌️  
