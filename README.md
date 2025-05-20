@@ -1,6 +1,6 @@
-# Conversor de Monedas – Proyecto Mini 🚀
+# Conversor de Monedas 🚀
 
-Pequeña aplicación de línea de comandos (CLI) escrita en **Java** que permite convertir valores entre distintas monedas utilizando tasas **en tiempo real** provistas por [ExchangeRate-API v6](https://www.exchangerate-api.com/).
+Sencilla aplicación de línea de comandos (CLI) escrita en **Java** que permite convertir valores entre distintas monedas utilizando tasas **en tiempo real** provistas por [ExchangeRate-API v6](https://www.exchangerate-api.com/).
 
 ---
 
